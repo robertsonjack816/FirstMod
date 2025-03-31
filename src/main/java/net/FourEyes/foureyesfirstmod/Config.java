@@ -1,4 +1,4 @@
-package net.FourEyes.FirstMod;
+package net.FourEyes.foureyesfirstmod;
 
 import java.util.List;
 import java.util.Set;
