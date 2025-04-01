@@ -1,4 +1,6 @@
 {
   "item.foureyesfirstmod.bismuth": "Bismuth",
-  "item.foureyesfirstmod.raw_bismuth": "Raw Bismuth"
+  "item.foureyesfirstmod.raw_bismuth": "Raw Bismuth",
+  "block.foureyesfirstmod.bismuth_block": "Block of Bismuth",
+  "block.foureyesfirstmod.bismuth_ore": "Bismuth Ore"
 }
